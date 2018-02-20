@@ -1,0 +1,44 @@
+Feb 20, 2018 10:22:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Feb 20, 2018 10:22:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Feb 20, 2018 10:22:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:22:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:22:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/demoweb18feb'
+Feb 20, 2018 10:22:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/demoweb18feb'
+Feb 20, 2018 10:22:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to C:\tomcat7\webapps\demoweb18feb.war
+Feb 20, 2018 10:25:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:25:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:25:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/demoweb18feb'
+Feb 20, 2018 10:25:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/demoweb18feb'
+Feb 20, 2018 10:25:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to C:\tomcat7\webapps\demoweb18feb.war
+Feb 20, 2018 10:46:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Feb 20, 2018 10:46:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Feb 20, 2018 10:46:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:46:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:46:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/demoweb18feb'
+Feb 20, 2018 10:46:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/demoweb18feb'
+Feb 20, 2018 10:46:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to C:\tomcat7\webapps\demoweb18feb.war
+Feb 20, 2018 10:54:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 20, 2018 10:54:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/Hello9'
+Feb 20, 2018 10:54:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to C:\tomcat7\webapps\Hello9.war

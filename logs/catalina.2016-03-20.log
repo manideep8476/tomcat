@@ -1,0 +1,128 @@
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 49 ms
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 12:41:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 47 ms
+Mar 20, 2016 9:42:12 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 87 ms
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 9:42:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 53 ms
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 98 ms
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 6:43:20 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 56 ms
+Mar 20, 2016 6:44:13 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 6:44:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 6:44:13 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 6:44:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 56 ms
+Mar 20, 2016 6:44:14 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 6:44:14 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 6:44:14 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 6:44:14 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 46 ms
+Mar 20, 2016 7:41:35 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 7:41:35 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 7:41:35 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 7:41:35 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 49 ms
+Mar 20, 2016 7:41:35 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 7:41:35 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 7:41:36 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 7:41:36 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 55 ms
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 62 ms
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 8:41:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 58 ms
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 59 ms
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 10:23:59 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 47 ms
+Mar 20, 2016 10:41:44 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Mar 20, 2016 10:41:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Mar 20, 2016 10:41:44 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 10:41:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 52 ms
+Mar 20, 2016 10:41:45 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Mar 20, 2016 10:41:45 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Mar 20, 2016 10:41:45 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2016 10:41:45 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 49 ms

@@ -1,0 +1,740 @@
+Nov 03, 2016 1:32:18 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 1:32:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 1:32:18 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 1:32:18 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 1:32:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 68 ms
+Nov 03, 2016 1:32:19 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 1:32:19 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 1:32:19 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 1:32:19 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 1:32:19 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 88 ms
+Nov 03, 2016 1:32:30 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 1:32:30 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 1:32:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 1:32:30 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 1:32:30 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 1:32:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 217 ms
+Nov 03, 2016 2:32:44 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:33:13 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 2:33:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 2:33:13 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:33:13 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:33:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 106 ms
+Nov 03, 2016 2:33:14 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 2:33:14 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 2:33:14 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:33:15 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:33:15 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 124 ms
+Nov 03, 2016 2:33:26 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 2:33:27 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 2:33:27 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:33:27 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:33:27 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 276 ms
+Nov 03, 2016 2:33:29 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 2:33:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 2:33:30 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:33:30 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:33:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 238 ms
+Nov 03, 2016 3:26:56 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 3:27:41 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 3:27:41 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 3:27:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 3:27:41 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 3:27:41 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 3:27:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 141 ms
+Nov 03, 2016 4:28:17 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 4:28:17 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 4:28:17 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:28:17 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:28:17 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 91 ms
+Nov 03, 2016 4:28:30 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 4:28:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 4:28:30 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:28:30 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:28:30 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 247 ms
+Nov 03, 2016 4:28:32 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 4:28:32 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 4:28:32 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:28:32 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:28:32 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 212 ms
+Nov 03, 2016 5:21:58 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 5:21:58 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 5:21:58 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 5:21:58 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 5:21:58 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 5:21:58 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 62 ms
+Nov 03, 2016 5:22:18 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 5:22:19 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 5:22:33 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 5:22:33 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 5:22:33 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 5:22:34 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 5:22:34 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 216 ms
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 6:22:45 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 41 ms
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 6:22:45 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 6:22:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 58 ms
+Nov 03, 2016 6:23:32 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 6:23:32 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 6:23:32 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 6:23:33 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 6:23:33 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 102 ms
+Nov 03, 2016 6:23:46 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 6:23:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 6:23:46 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 6:23:46 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 6:23:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 262 ms
+Nov 03, 2016 6:23:47 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 6:23:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 6:23:47 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 6:23:47 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 6:23:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 233 ms
+Nov 03, 2016 8:17:50 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 8:18:40 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 8:18:40 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 8:18:40 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 8:18:40 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 8:18:40 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 98 ms
+Nov 03, 2016 8:18:53 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 8:18:53 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 8:18:53 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 8:18:53 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 8:18:53 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 228 ms
+Nov 03, 2016 8:18:54 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 8:37:23 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 8:37:23 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 8:37:23 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 8:37:23 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 68 ms
+Nov 03, 2016 8:37:44 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 8:37:45 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 8:37:55 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 8:38:10 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 9:10:10 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 9:10:10 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:10:10 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:10:10 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 82 ms
+Nov 03, 2016 9:10:48 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 9:10:48 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 9:10:48 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:10:48 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:10:48 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 43 ms
+Nov 03, 2016 9:10:49 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 9:10:49 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 9:10:49 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:10:49 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:10:49 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 64 ms
+Nov 03, 2016 9:10:53 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 9:10:54 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 9:10:54 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 9:10:54 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:10:54 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:10:54 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 58 ms
+Nov 03, 2016 9:10:58 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 9:10:59 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 9:34:47 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 9:34:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 9:34:47 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:34:47 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:34:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 58 ms
+Nov 03, 2016 9:41:58 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 9:41:59 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 9:43:46 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 9:43:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 9:43:47 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:43:47 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:43:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 46 ms
+Nov 03, 2016 9:52:46 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 9:52:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 9:52:46 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:52:46 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:52:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 59 ms
+Nov 03, 2016 9:56:46 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 9:56:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 9:56:46 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:56:46 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:56:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 50 ms
+Nov 03, 2016 10:01:46 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 10:34:47 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 10:34:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 10:34:47 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 10:34:47 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 10:34:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 54 ms
+Nov 03, 2016 10:43:40 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 10:43:40 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 10:43:40 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 10:43:40 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 10:43:40 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 42 ms
+Nov 03, 2016 10:43:46 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 10:43:47 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 10:53:11 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 10:53:11 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 10:53:11 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 10:53:11 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 10:53:11 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 47 ms
+Nov 03, 2016 10:56:11 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 10:56:11 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 10:56:11 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 10:56:11 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 10:56:11 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 48 ms
+Nov 03, 2016 11:01:31 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 11:35:03 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 11:35:03 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 11:35:03 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:35:03 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:35:03 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 46 ms
+Nov 03, 2016 11:49:51 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 11:49:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 11:49:51 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:49:51 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:49:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 52 ms
+Nov 03, 2016 11:49:59 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 11:49:59 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 11:52:50 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 11:52:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 11:52:50 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:52:50 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:52:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 50 ms
+Nov 03, 2016 11:56:50 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 11:56:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 11:56:50 AM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:56:50 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:56:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 57 ms
+Nov 03, 2016 12:01:49 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 12:34:04 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 12:34:04 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 12:34:04 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 12:34:04 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 12:34:04 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 52 ms
+Nov 03, 2016 12:41:16 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 12:41:16 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 12:43:04 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 12:43:04 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 12:43:04 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 12:43:04 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 12:43:04 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 46 ms
+Nov 03, 2016 12:52:05 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 12:52:05 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 12:52:05 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 12:52:05 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 12:52:05 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 64 ms
+Nov 03, 2016 1:00:49 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 1:00:49 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 1:00:49 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 1:00:49 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 1:00:49 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 59 ms
+Nov 03, 2016 1:32:29 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 2:04:08 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 59 ms
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 2:04:08 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:04:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 40 ms
+Nov 03, 2016 2:04:13 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 2:04:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 2:04:13 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:04:13 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:04:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 45 ms
+Nov 03, 2016 2:04:14 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 2:04:14 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 2:04:14 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:04:14 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:04:14 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 55 ms
+Nov 03, 2016 2:04:17 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:04:18 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:04:21 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:34:07 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 2:34:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 2:34:07 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:34:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:34:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 60 ms
+Nov 03, 2016 2:41:18 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:41:18 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 2:43:07 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 2:43:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 2:43:07 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:43:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:43:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 41 ms
+Nov 03, 2016 2:52:07 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 2:52:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 2:52:07 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 2:52:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 2:52:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 48 ms
+Nov 03, 2016 3:01:54 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 3:01:54 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 3:01:54 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 3:01:54 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 3:01:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 3:01:54 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 49 ms
+Nov 03, 2016 3:34:52 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 3:34:52 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 3:34:52 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 3:34:52 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 3:34:52 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 56 ms
+Nov 03, 2016 3:42:01 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 3:42:01 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 3:43:52 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 3:43:52 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 3:43:52 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 3:43:52 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 3:43:52 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 44 ms
+Nov 03, 2016 3:55:24 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 3:55:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 3:55:24 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 3:55:24 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 3:55:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 56 ms
+Nov 03, 2016 3:56:23 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 3:56:23 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 3:56:23 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 3:56:23 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 3:56:23 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 47 ms
+Nov 03, 2016 4:01:24 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 4:34:28 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 4:34:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 4:34:28 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:34:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:34:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 56 ms
+Nov 03, 2016 4:41:36 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 4:41:36 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 4:43:27 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 4:43:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 4:43:27 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:43:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:43:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 41 ms
+Nov 03, 2016 4:52:27 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 4:52:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 4:52:28 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:52:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:52:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 50 ms
+Nov 03, 2016 4:56:27 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 4:56:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 4:56:27 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 4:56:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 4:56:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 53 ms
+Nov 03, 2016 5:01:27 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 6:36:19 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 6:36:19 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 6:36:19 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 6:36:19 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 6:36:19 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 55 ms
+Nov 03, 2016 6:41:31 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 6:41:31 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 7:30:15 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 7:30:15 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 7:30:15 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 7:30:15 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 7:30:15 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 7:30:15 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 59 ms
+Nov 03, 2016 9:53:34 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 9:53:34 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 9:53:34 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:53:34 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:53:34 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 186 ms
+Nov 03, 2016 9:56:33 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 9:56:33 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 9:56:33 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 9:56:33 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 9:56:33 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 137 ms
+Nov 03, 2016 10:01:33 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 11:12:04 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp]
+Nov 03, 2016 11:12:04 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war
+Nov 03, 2016 11:12:04 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:12:04 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:12:04 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp.war has finished in 69 ms
+Nov 03, 2016 11:12:05 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/mydemoapp]
+Nov 03, 2016 11:12:05 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war
+Nov 03, 2016 11:12:05 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:12:05 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:12:05 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/mydemoapp.war has finished in 59 ms
+Nov 03, 2016 11:12:08 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/testwebapp0101]
+Nov 03, 2016 11:12:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war
+Nov 03, 2016 11:12:08 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:12:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:12:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/testwebapp0101.war has finished in 75 ms
+Nov 03, 2016 11:12:09 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Nov 03, 2016 11:12:09 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Nov 03, 2016 11:12:09 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 03, 2016 11:12:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 03, 2016 11:12:09 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 58 ms
+Nov 03, 2016 11:12:12 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 11:12:15 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Nov 03, 2016 11:12:17 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.

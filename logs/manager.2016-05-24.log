@@ -1,0 +1,200 @@
+May 24, 2016 4:33:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+May 24, 2016 4:33:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+May 24, 2016 4:33:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 4:33:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 4:33:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 4:41:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 4:41:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 4:41:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/sampleweb3'
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/helloweb'
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/sampleweb3'
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/sampleweb3.war
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/helloweb'
+May 24, 2016 4:41:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+May 24, 2016 5:01:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:01:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:01:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 5:01:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 5:01:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 5:43:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:43:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:43:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/helloweb'
+May 24, 2016 5:43:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:43:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 5:43:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/sampleweb3'
+May 24, 2016 5:43:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/helloweb'
+May 24, 2016 5:43:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+May 24, 2016 5:43:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/sampleweb3'
+May 24, 2016 5:43:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/sampleweb3.war
+May 24, 2016 6:01:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 6:01:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 6:01:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 6:01:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 6:01:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 8:16:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:16:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:16:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 8:16:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 8:16:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 8:16:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:16:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:16:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/sampleweb3'
+May 24, 2016 8:16:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/sampleweb3'
+May 24, 2016 8:16:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/sampleweb3.war
+May 24, 2016 8:16:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:16:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:16:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/helloweb'
+May 24, 2016 8:16:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/helloweb'
+May 24, 2016 8:16:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+May 24, 2016 8:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/sampleweb3'
+May 24, 2016 8:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 8:53:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/helloweb'
+May 24, 2016 8:53:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/helloweb'
+May 24, 2016 8:53:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+May 24, 2016 8:53:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/sampleweb3'
+May 24, 2016 8:53:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/sampleweb3.war
+May 24, 2016 9:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 9:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 9:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 9:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 9:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/sampleweb3'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/helloweb'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/sampleweb3'
+May 24, 2016 9:41:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/sampleweb3.war
+May 24, 2016 9:41:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/helloweb'
+May 24, 2016 9:41:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+May 24, 2016 10:02:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 10:02:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 10:02:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 10:02:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 10:02:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war
+May 24, 2016 10:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 10:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 10:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/sampleweb3'
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/helloweb'
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/sampleweb3'
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/sampleweb3.war
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/helloweb'
+May 24, 2016 10:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+May 24, 2016 11:01:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 11:01:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 24, 2016 11:01:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/simpleapp'
+May 24, 2016 11:01:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/simpleapp'
+May 24, 2016 11:01:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /Users/Nanda/Documents/tomcat7/webapps/simpleapp.war

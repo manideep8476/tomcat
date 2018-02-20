@@ -1,0 +1,30 @@
+Feb 12, 2016 10:41:45 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/sampleweb]
+Feb 12, 2016 10:41:45 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/helloweb]
+Feb 12, 2016 10:41:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Feb 12, 2016 10:41:45 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Feb 12, 2016 10:41:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 102 ms
+Feb 12, 2016 10:41:45 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war
+Feb 12, 2016 10:41:46 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Feb 12, 2016 10:41:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/helloweb.war has finished in 81 ms
+Feb 12, 2016 10:52:42 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8090"]
+Feb 12, 2016 10:52:42 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 12, 2016 10:52:42 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 12, 2016 10:52:42 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8090"]
+Feb 12, 2016 10:52:42 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 12, 2016 10:52:42 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8090"]
+Feb 12, 2016 10:52:42 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

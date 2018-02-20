@@ -1,0 +1,142 @@
+Aug 01, 2016 12:17:46 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 12:17:46 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 12:17:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 12:17:46 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 12:17:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 168 ms
+Aug 01, 2016 12:18:07 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 12:18:19 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 1:19:41 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 1:19:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 1:19:41 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 1:19:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 305 ms
+Aug 01, 2016 2:13:01 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 2:13:02 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 2:13:22 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 2:13:46 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 2:13:46 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 2:13:47 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 2:13:47 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 277 ms
+Aug 01, 2016 3:13:49 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 4:08:00 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 4:08:00 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 4:08:00 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 4:08:00 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 54 ms
+Aug 01, 2016 4:08:20 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 4:08:21 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 4:08:35 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 5:08:48 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 5:08:48 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 5:08:48 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 5:08:48 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 57 ms
+Aug 01, 2016 6:03:21 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 6:03:21 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 6:03:21 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 6:03:21 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 234 ms
+Aug 01, 2016 6:03:34 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 7:46:21 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 7:46:21 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 7:46:54 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 7:46:54 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 7:46:54 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 7:46:54 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 435 ms
+Aug 01, 2016 7:47:06 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:24:08 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:24:49 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 9:24:49 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:24:49 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 9:24:49 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 9:24:49 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 266 ms
+Aug 01, 2016 9:51:16 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:51:16 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:52:06 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:52:06 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 9:56:52 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 9:56:52 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 9:56:52 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 9:56:52 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 54 ms
+Aug 01, 2016 10:01:52 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 10:42:03 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleweb3]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 10:42:04 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/helloweb]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 10:56:52 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/task101web]
+Aug 01, 2016 10:56:52 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war
+Aug 01, 2016 10:56:52 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 01, 2016 10:56:52 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/task101web.war has finished in 53 ms
+Aug 01, 2016 11:01:51 AM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/simpleapp]] after stop() had already been called. The second call will be ignored.
+Aug 01, 2016 11:19:02 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8090"]
+Aug 01, 2016 11:19:02 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Aug 01, 2016 11:19:02 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Aug 01, 2016 11:19:03 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8090"]
+Aug 01, 2016 11:19:03 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Aug 01, 2016 11:19:03 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8090"]
+Aug 01, 2016 11:19:03 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

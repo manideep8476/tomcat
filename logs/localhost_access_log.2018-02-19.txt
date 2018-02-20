@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:04:21 -0500] "GET / HTTP/1.1" 200 11217
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:05:29 -0500] "GET /demoweb18feb HTTP/1.1" 404 975
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:17:18 -0500] "GET /demoweb18feb HTTP/1.1" 404 975
+127.0.0.1 - manager [19/Feb/2018:10:37:18 -0500] "GET //manager/text/list HTTP/1.1" 200 577
+127.0.0.1 - manager [19/Feb/2018:10:37:18 -0500] "PUT //manager/text/deploy?path=%2Fdemoweb18feb HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:38:07 -0500] "GET / HTTP/1.1" 200 11217
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:38:46 -0500] "GET /demoweb18feb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:38:46 -0500] "GET /demoweb18feb/ HTTP/1.1" 404 977
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:40:15 -0500] "GET /demoweb18feb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:40:15 -0500] "GET /demoweb18feb/ HTTP/1.1" 404 977
+127.0.0.1 - manager [19/Feb/2018:10:41:15 -0500] "GET //manager/text/list HTTP/1.1" 200 615
+127.0.0.1 - manager [19/Feb/2018:10:41:15 -0500] "GET //manager/text/list HTTP/1.1" 200 615
+127.0.0.1 - manager [19/Feb/2018:10:41:16 -0500] "GET //manager/text/undeploy?path=%2Fdemoweb18feb HTTP/1.1" 200 70
+127.0.0.1 - manager [19/Feb/2018:10:41:16 -0500] "PUT //manager/text/deploy?path=%2Fdemoweb18feb HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:41:48 -0500] "GET /demoweb18feb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:10:41:48 -0500] "GET /demoweb18feb/ HTTP/1.1" 404 977

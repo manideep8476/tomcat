@@ -1,0 +1,338 @@
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.11.1
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_65-b17
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/Nanda/Documents/tomcat7/conf/logging.properties
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/Nanda/Documents/tomcat7/endorsed
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/Nanda/Documents/tomcat7/temp
+Feb 10, 2016 9:33:25 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Nanda/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Feb 10, 2016 9:33:25 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 9:33:25 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 431 ms
+Feb 10, 2016 9:33:25 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 10, 2016 9:33:25 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/docs
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/docs has finished in 190 ms
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/examples
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/examples has finished in 157 ms
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager has finished in 25 ms
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/manager
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/manager has finished in 28 ms
+Feb 10, 2016 9:33:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT
+Feb 10, 2016 9:33:26 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT has finished in 22 ms
+Feb 10, 2016 9:33:26 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 9:33:26 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 9:33:26 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 458 ms
+Feb 10, 2016 10:01:38 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:01:38 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:01:38 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 10, 2016 10:01:38 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:01:38 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:01:38 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:01:38 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.11.1
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_65-b17
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/Nanda/Documents/tomcat7/conf/logging.properties
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/Nanda/Documents/tomcat7/endorsed
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/Nanda/Documents/tomcat7/temp
+Feb 10, 2016 10:03:06 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Nanda/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Feb 10, 2016 10:03:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:03:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 406 ms
+Feb 10, 2016 10:03:06 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 10, 2016 10:03:06 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Feb 10, 2016 10:03:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/docs
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/docs has finished in 197 ms
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/examples
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/examples has finished in 158 ms
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager has finished in 25 ms
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/manager
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/manager has finished in 34 ms
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT has finished in 18 ms
+Feb 10, 2016 10:03:07 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:03:07 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:03:07 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 462 ms
+Feb 10, 2016 10:07:59 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:07:59 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:07:59 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 10, 2016 10:07:59 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:07:59 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:07:59 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:07:59 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.11.1
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_65-b17
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/Nanda/Documents/tomcat7/conf/logging.properties
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/Nanda/Documents/tomcat7/endorsed
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/Nanda/Documents/tomcat7/temp
+Feb 10, 2016 10:08:01 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Nanda/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Feb 10, 2016 10:08:01 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:08:01 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 352 ms
+Feb 10, 2016 10:08:01 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 10, 2016 10:08:01 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/docs
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/docs has finished in 169 ms
+Feb 10, 2016 10:08:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/examples
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/examples has finished in 151 ms
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager has finished in 28 ms
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/manager
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/manager has finished in 31 ms
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT has finished in 19 ms
+Feb 10, 2016 10:08:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:08:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:08:02 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 429 ms
+Feb 10, 2016 10:13:02 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:13:02 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:13:02 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 10, 2016 10:13:02 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:13:02 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:13:02 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:13:02 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.67
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 7 2015 13:07:11 UTC
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.67.0
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.11.1
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_65-b17
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/Nanda/Documents/tomcat7/conf/logging.properties
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/Nanda/Documents/tomcat7/endorsed
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/Nanda/Documents/tomcat7
+Feb 10, 2016 10:14:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/Nanda/Documents/tomcat7/temp
+Feb 10, 2016 10:14:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Nanda/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Feb 10, 2016 10:14:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:14:16 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 387 ms
+Feb 10, 2016 10:14:16 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 10, 2016 10:14:16 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/docs
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/docs has finished in 171 ms
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/examples
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/examples has finished in 148 ms
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/host-manager has finished in 26 ms
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/manager
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/manager has finished in 32 ms
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/Nanda/Documents/tomcat7/webapps/ROOT has finished in 18 ms
+Feb 10, 2016 10:14:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8090"]
+Feb 10, 2016 10:14:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 10, 2016 10:14:16 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 427 ms
+Feb 10, 2016 10:14:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war
+Feb 10, 2016 10:14:27 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Feb 10, 2016 10:14:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Feb 10, 2016 10:14:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/Nanda/Documents/tomcat7/webapps/sampleweb.war has finished in 84 ms

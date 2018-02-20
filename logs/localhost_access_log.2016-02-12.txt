@@ -1,0 +1,8 @@
+127.0.0.1 - manager [12/Feb/2016:10:41:44 -0500] "GET /manager/text/list HTTP/1.1" 200 254
+127.0.0.1 - manager [12/Feb/2016:10:41:44 -0500] "GET /manager/text/list HTTP/1.1" 200 254
+127.0.0.1 - manager [12/Feb/2016:10:41:44 -0500] "GET /manager/text/list HTTP/1.1" 200 254
+127.0.0.1 - manager [12/Feb/2016:10:41:44 -0500] "GET /manager/text/list HTTP/1.1" 200 254
+127.0.0.1 - manager [12/Feb/2016:10:41:45 -0500] "GET /manager/text/undeploy?path=%2Fhelloweb HTTP/1.1" 200 65
+127.0.0.1 - manager [12/Feb/2016:10:41:45 -0500] "GET /manager/text/undeploy?path=%2Fsampleweb HTTP/1.1" 200 66
+127.0.0.1 - manager [12/Feb/2016:10:41:45 -0500] "PUT /manager/text/deploy?path=%2Fsampleweb HTTP/1.1" 200 64
+127.0.0.1 - manager [12/Feb/2016:10:41:46 -0500] "PUT /manager/text/deploy?path=%2Fhelloweb HTTP/1.1" 200 63
